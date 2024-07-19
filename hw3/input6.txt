@@ -1,0 +1,6 @@
+var x, y, e;
+begin
+   y := 3;
+   e := 3/2;
+   x := y * e ;
+end.

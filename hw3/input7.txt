@@ -1,0 +1,8 @@
+var x, y;
+begin
+   while x < 100 do
+      begin
+      y := x - 20;
+      x := x + y;
+      end
+end.

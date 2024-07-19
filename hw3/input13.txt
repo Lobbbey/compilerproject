@@ -1,0 +1,6 @@
+var x, y;
+const i := 3;
+begin
+   y := i + y;
+   x := y * i;
+end.

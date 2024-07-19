@@ -1,0 +1,12 @@
+a virtual machine is a software interpretur that implements an instruction set architecture
+
+1 array one part is program and one part is the stack
+Only use 1 array
+
+can also use a struct
+
+Will be due next friday
+
+Can only use a function to print and the base function that is provided
+
+Output needs to be placed in terminal not in an Output file

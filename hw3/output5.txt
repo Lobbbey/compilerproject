@@ -1,0 +1,16 @@
+Line	 OP	 L	 M
+0	JMP	 0	 3 
+1	INC	 0	 5 
+2	LIT	 0	 2 
+3	STO	 0	 4 
+4	LOD	 0	 4 
+5	LIT	 0	 3 
+6	ADD	 0	 1 
+7	STO	 0	 3 
+8	SYS	 0	 3 
+
+Kind | Name        | Value | Level | Address | Mark
+---------------------------------------------------
+ 1   | k           |  3    |  0    |  0    |  1    
+ 2   | x           |  0    |  0    |  3    |  1    
+ 2   | y           |  0    |  0    |  4    |  1    
